@@ -17,7 +17,7 @@ const MEDIA = {
     "Beaver": {"image": "DqMA8B7f7pQ","video": "oL5SD6z7AG8" },
     "Bee": {"image": "yxXpjF-RrnA","video": "ta154f5Rp5Y" },
     "Bengal Tiger": {"image": "037fCBgZB10","video": "HVeIo0JaAZQ" },
-    "Bison": {"image": "FXiHwsskusY","video": "iVO5mkIn1c" },
+    "Bison": {"image": "FXiHwsskusY","video": "2iVO5mkIn1c" },
     "Black Rhinoceros": {"image": "GGuPS7sfbtY","video": "ST_83Hkrbk4" },
     "Black-Footed Ferret": {"image": "hn0AtxarNNw","video": "aAFFJcB02DA" },
     "Blue-Ringed Octopus": {"image": "tFBjYVy9CwQ","video": "m34kHdq9EB4" },
